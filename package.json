@@ -1,0 +1,14 @@
+{
+  "name": "gravity",
+  "version": "1.0.0",
+  "description": "FIT1050",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sittiporn Likanasudh",
+  "license": "ISC",
+  "dependencies": {
+    "@fancyapps/ui": "^4.0.27"
+  }
+}
